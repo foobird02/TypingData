@@ -5,6 +5,8 @@ import logging
 import csv
 import numpy as np
 
+import pandas
+
 ROOT_DIR = "C:\\Users\\gross\\Documents"
 
 class LoadFromCSV(object):
